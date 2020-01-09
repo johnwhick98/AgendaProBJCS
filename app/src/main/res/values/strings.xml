@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AGENDAbjcs</string>
+    <string name="Agenda">Mi agenda</string>
+    <string name="Ag">Agregar</string>
+    <string name="List">Listar</string>
+    <string name="Elim">Eliminar</string>
+    <string name="Nue">Nuevo</string>
+    <string name="Nom">Nombre</string>
+    <string name="Tel">Telefono</string>
+    <string name="Dir">Dirección</string>
+    <string name="Cor">Correo</string>
+    <string name="Gua">Guardar</string>
+    <string name="Reg">Regresar</string>
+</resources>
+
